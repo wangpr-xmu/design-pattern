@@ -1,6 +1,6 @@
 package org.worker.proxy.dynamic.cglib;
 
-import com.coder.proxy.dynamic.ITeacher;
+
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;

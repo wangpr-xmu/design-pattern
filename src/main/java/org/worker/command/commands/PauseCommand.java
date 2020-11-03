@@ -1,7 +1,8 @@
 package org.worker.command.commands;
 
-import com.coder.command.ICommand;
-import com.coder.command.VideoPlayer;
+
+import org.worker.command.ICommand;
+import org.worker.command.VideoPlayer;
 
 public class PauseCommand implements ICommand {
     private VideoPlayer videoPlayer;

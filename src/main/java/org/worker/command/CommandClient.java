@@ -1,7 +1,8 @@
 package org.worker.command;
 
-import com.coder.command.commands.PauseCommand;
-import com.coder.command.commands.PlayCommand;
+
+import org.worker.command.commands.PauseCommand;
+import org.worker.command.commands.PlayCommand;
 
 public class CommandClient {
     public static void main(String[] args) {

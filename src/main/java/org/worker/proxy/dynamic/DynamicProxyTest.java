@@ -1,7 +1,8 @@
 package org.worker.proxy.dynamic;
 
-import com.coder.proxy.dynamic.cglib.ITeacherCglibProxy;
-import com.coder.proxy.dynamic.jdk.ITeacherJdkProxy;
+
+import org.worker.proxy.dynamic.cglib.ITeacherCglibProxy;
+import org.worker.proxy.dynamic.jdk.ITeacherJdkProxy;
 
 public class DynamicProxyTest {
     public static void main(String[] args) {

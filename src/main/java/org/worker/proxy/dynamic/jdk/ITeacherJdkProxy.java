@@ -1,6 +1,6 @@
 package org.worker.proxy.dynamic.jdk;
 
-import com.coder.proxy.dynamic.ITeacher;
+import org.worker.proxy.dynamic.ITeacher;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
